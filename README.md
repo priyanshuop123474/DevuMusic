@@ -1,23 +1,23 @@
-## `DevuMusic`
+## `NobitaMusic`
 >Lag Free music bot for telegram 💞
 <p align="center"><h6> <code>Telegram Music</code> </h6>
 
 > __Telegram Lag Free Music player which can play music in voice chat of telegram with minimum lag As depend upon their server nd quality of internet❤️🚶.__
 <p align="center">
-<img src='https://telegra.ph/file/ceda1580c90e06991e883.png' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
+<img src='https://telegra.ph/file/1721306895a62ba9014d6.jpg' alternate="Aww Reload Aunty It's Your internet issue" height="250px">
 
 </pre>
 <details><summary> <h3><b>Deployment!</b></h3> </summary>
 <pre>
 
-<b>Deploy DevuMusic to Heroku</b>
-<p><a href="https://heroku.com/deploy?template=https://github.com/ItsmeHyper13/DevuMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<b>Deploy NobitaMusic to Heroku</b>
+<p><a href="https://heroku.com/deploy?template=https://github.com/priyanshuop123474/NobitaBest172"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200""/></a></p>
 </pre>
 </details>
 <details>
 <summary><b><h3>Credits</h3></b></summary>
 <i>All credit Goes To these peoples</i><br>
-<code>ItsmeHyper13: Main Credit</code><br>
+<code>Priyanshu: Main Credit</code><br>
 <code>Nub Hu vro Schhi me🥲🥲</code><br>
 </details>
 
@@ -41,4 +41,4 @@
 <a href="https://t.me/ShiningOff"><img src="https://img.shields.io/badge/Developer%20%20-black?style=for-the-badge&logo=telegram"></a></p>
 
 
-<p><code>##This Project Under</code> <pre> <a href="https://t.me/SILENT_DEVS"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
+<p><code>##This Project Under</code> <pre> <a href="https://t.me/NOBITAMANAGMENT"><img src="https://img.shields.io/badge/Join-Team%20%20Silent-blue?style=for-the-badge&logo=telegram"></a></pre>
